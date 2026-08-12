@@ -1,0 +1,30 @@
+Test 1:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Expected Result:
+The program displays the entered food and color correctly.
+
+
+Test 2:
+Favorite Food: Burger
+Favorite Color: Red
+
+Expected Result:
+The program displays the entered food and color correctly.
+
+
+Test 3:
+Favorite Food:
+Favorite Color:
+
+Expected Result:
+The program displays a message asking the user to enter valid information.
+
+
+Test 4:
+Favorite Food: A very long food name
+Favorite Color: A very long color name
+
+Expected Result:
+The program accepts the input and displays it correctly.
